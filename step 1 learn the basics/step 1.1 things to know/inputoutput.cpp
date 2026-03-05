@@ -5,6 +5,6 @@ int main() {
     cout<<"enter a no.";
     int x;
     cin>>x;
-    cout<<"you entered"<<x<<endl;
+    cout<<"you entered "<<x<<endl;
     return 0;
 }
