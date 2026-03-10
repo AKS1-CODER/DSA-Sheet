@@ -29,6 +29,9 @@ void print2(int n){
     }
 }
 int main(){
-    print1(5);
-    print2(4);
+    int n;
+    cout<<"enter a number";
+    cin>>n;
+    print1(n);
+    print2(n-1);
 }
